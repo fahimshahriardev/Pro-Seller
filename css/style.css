@@ -1,0 +1,251 @@
+.top{
+	background-color: #003B5B;
+	height: 523px;
+}
+.professional{
+	   color: white;
+    font-size: 115px;
+    margin-top: 50px;
+}
+.seller{
+	color: white;
+    font-size: 105px;
+    margin-top: -82px;
+    margin-left: 165px;
+}
+.second-section{
+	color: #003B5B;
+	margin-top: 60px;
+}
+.second-section-text{
+	font-size: 38px;
+    text-align: center;
+}
+.ratings{
+	margin-top: 60px;
+    margin-bottom: 60px;
+}
+.professional-seller{
+	background-color: #40798C;
+	color: white;
+	margin-bottom: 50px;
+}
+.professional-seller-text{
+	    text-align: center;
+    font-size: 40px;
+    margin: 30px 0px;
+}
+.icon-section-gap{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background-color: #D9E4E8;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.icon-text{
+	font-size: 31px;
+	color: #40798C;
+}
+.icon-3-img{
+margin-top: 55px;
+}
+.icon-4-img{
+margin-top: 135px;
+}
+.icon-5-img{
+margin-top: 105px;
+}
+.icon-6-img{
+margin-top: 85px;
+}
+.footer-1-text{
+	font-size: 31px;
+	color: #40798C;
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.footer-2-text{
+	font-size: 31px;
+	color: #40798C;
+	text-align: center;
+	margin-left: -70px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+.footer{
+background-color: #40798C;
+height: 50px;
+margin-top: 50px;
+}
+
+
+
+
+
+
+@media (min-width: 320px) and (max-width:520px){
+	.top {
+    background-color: #003B5B;
+    height: 193px;
+}
+.professional {
+    color: white;
+    font-size: 45px;
+    margin-top: 28px;
+}
+.seller {
+    color: white;
+    font-size: 45px;
+    margin-top: -45px;
+    margin-left: 61px;
+}
+.second-section-text {
+    font-size: 25px;
+    text-align: center;
+}
+.professional-seller-text {
+    text-align: center;
+    font-size: 27px;
+    margin: 30px 0px;
+}
+.icon-text {
+    font-size: 13px;
+    color: #40798C;
+}
+.icon-3-img {
+    margin-top: 45px;
+}
+.icon-4-img {
+    margin-top: 60px;
+}
+.icon-5-img {
+    margin-top: 68px;
+}
+.icon-6-img {
+    margin-top: 42px;
+}
+.footer-1-text {
+    font-size: 18px;
+    color: #40798C;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.footer-2-text {
+    font-size: 18px;
+    color: #40798C;
+    text-align: center;
+    margin-left: -70px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+}
+
+
+
+@media (min-width: 521px) and (max-width:768px){
+	.top {
+    background-color: #003B5B;
+    height: 222px;
+}
+.professional {
+    color: white;
+    font-size: 55px;
+    margin-top: 50px;
+}
+.seller {
+    color: white;
+    font-size: 50px;
+    margin-top: -53px;
+    margin-left: 77px;
+}
+.second-section-text {
+    font-size: 25px;
+    text-align: center;
+}
+.professional-seller-text {
+    text-align: center;
+    font-size: 29px;
+    margin: 25px 0px;
+}
+.icon-text {
+    font-size: 17px;
+    color: #40798C;
+}
+.icon-4-img {
+    margin-top: 85px;
+}
+.footer-1-text {
+    font-size: 25px;
+    color: #40798C;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.footer-2-text {
+    font-size: 20px;
+    color: #40798C;
+    text-align: center;
+    margin-left: -70px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+}
+@media (min-width: 769px) and (max-width:991px){
+	.professional {
+    color: white;
+    font-size: 70px;
+    margin-top: 50px;
+}
+.seller {
+    color: white;
+    font-size: 60px;
+    margin-top: -63px;
+    margin-left: 100px;
+}
+.top {
+    background-color: #003B5B;
+    height: 314px;
+}
+.second-section-text {
+    font-size: 25px;
+    text-align: center;
+}
+.professional-seller-text {
+    text-align: center;
+    font-size: 30px;
+    margin: 30px 0px;
+}
+.icon-text {
+    font-size: 20px;
+    color: #40798C;
+}
+.icon-4-img {
+    margin-top: 85px;
+}
+.footer-1-text {
+    font-size: 24px;
+    color: #40798C;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.footer-2-text {
+    font-size: 25px;
+    color: #40798C;
+    text-align: center;
+    margin-left: -70px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+}
+
+@media (min-width: 992px) and (max-width:1200px){
+	.top {
+    background-color: #003B5B;
+    height: 435px;
+}
+}
